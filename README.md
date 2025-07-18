@@ -18,6 +18,8 @@ react-md-editor/
 
 ```bash
 npm run install:all
+or
+npm run install-deps
 ```
 
 This will install dependencies for the root project, backend, and frontend.
